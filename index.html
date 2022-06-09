@@ -7,6 +7,8 @@ title: Divyam Anshumaan
 	<p><em></em><a href="/about"></a></p>
 	
 	<ul class="posts">
+		
+	<h1>{{ Recent News }}</h1>
 
 	  {% for post in site.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
