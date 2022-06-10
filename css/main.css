@@ -48,11 +48,12 @@ ul.posts li {
   position: relative;
   overflow: hidden;
   border-radius: 50%;
+  float: right;
 }
 
 img {
   display: inline;
   margin: 0 auto;
-  height: 20%;
+  height: 50%;
   width: auto;
 }
