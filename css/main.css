@@ -43,8 +43,8 @@ ul.posts li {
 }
 
 .image-cropper {
-  width: 400px;
-  height: 400px;
+  width: 300px;
+  height: 300px;
   position: relative;
   overflow: hidden;
   border-radius: 50%;
