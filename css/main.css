@@ -47,7 +47,6 @@ ul.posts li {
   height: 300px;
   position: relative;
   overflow: hidden;
-  border-radius: 50%;
   float: right;
 }
 
